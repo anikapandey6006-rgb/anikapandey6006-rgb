@@ -7,15 +7,15 @@
 
 ✨ It’s on you to get where you want to be.
 
-🌐 Socials:
+## 🌐 Socials:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anikapandey6006/">
     <img src="https://img.shields.io/badge/LinkedIn-Anika%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:anikapandey6006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Anika%20Pandey-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
