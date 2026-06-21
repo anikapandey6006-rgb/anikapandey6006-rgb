@@ -7,9 +7,13 @@
 
 ✨ It’s on you to get where you want to be.
 
- 🌐 Socials:
+  🌐 Socials:
 
 <p align="left">
+  <a href="https://instagram.com/_.anikaaa25">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/anikapandey6006/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
