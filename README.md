@@ -7,7 +7,7 @@
 
 ✨ It’s on you to get where you want to be.
 
-## 🌐 Connect with me:
+ 🌍 Reach Out:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anikapandey6006/">
